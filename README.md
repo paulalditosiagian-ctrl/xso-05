@@ -6,4 +6,4 @@
 * #learninginpublic in my [digital garden](https://maydelinehuang.com/)<br/>
 * Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/rockets/)<br/>
 
-[![Maydeline's github stats](https://github-readme-stats.vercel.app/api?username=o5&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
